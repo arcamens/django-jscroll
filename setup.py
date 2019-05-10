@@ -2,8 +2,8 @@
 
 from distutils.core import setup
 
-setup(name="jscroll",
-      version="2.0.0",
+setup(name="django-jscroll",
+      version="1.0.0",
       description="",
       packages=["jscroll", 
       "jscroll.templates", "jscroll.templates.jscroll"],
@@ -17,6 +17,7 @@ setup(name="jscroll",
       download_url='',
       keywords=[],
       classifiers=[])
+
 
 
 
